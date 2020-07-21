@@ -14,7 +14,8 @@ namespace Manage_Shop
     {
         public frmMain()
         {
-            InitializeComponent();
+            InitializeComponent();  
+
         }
     }
 }
